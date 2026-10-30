@@ -1,0 +1,29 @@
+__pycache__/
+venv/
+models/
+postgre_docker/
+sql/
+.pytest_cache/
+.env
+.env.db
+.env.rmq
+.env.web
+.env.worker
+pgdata
+saved_model/
+
+# Claude Code
+.claude/
+CLAUDE.md
+CLAUDE.local.md
+
+# Grader feedback and assignment handouts
+feedback.txt
+*Assignment*.pdf
+
+# Editor swap files
+*.kate-swp
+
+# Test coverage
+.coverage
+htmlcov/
